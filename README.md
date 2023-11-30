@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vakicherla Sudheethi
-- 👀 I’m interested in Python,ML,SQL
+- 👀 Okay bye!
 
 <!---
 Vakicherla-Sudheethi/Vakicherla-Sudheethi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
